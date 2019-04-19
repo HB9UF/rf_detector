@@ -508,7 +508,7 @@ U 1 1 5CA11A0C
 P 5950 3300
 F 0 "P2" H 6150 3500 50  0000 R CNN
 F 1 "4.7k" H 6200 3400 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3299Y_Vertical" H 5950 3300 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 5950 3300 50  0001 C CNN
 F 3 "~" H 5950 3300 50  0001 C CNN
 	1    5950 3300
 	1    0    0    -1  
