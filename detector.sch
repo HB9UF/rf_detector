@@ -20,7 +20,7 @@ U 1 1 5CA09394
 P 1200 1850
 F 0 "J1" H 1130 2088 50  0000 C CNN
 F 1 "RF_IN_1" H 1130 1997 50  0000 C CNN
-F 2 "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" H 1200 1850 50  0001 C CNN
+F 2 "Connector_Coaxial:SMA_Amphenol_901-144_Vertical" H 1200 1850 50  0001 C CNN
 F 3 " ~" H 1200 1850 50  0001 C CNN
 	1    1200 1850
 	-1   0    0    -1  
@@ -269,7 +269,7 @@ U 1 1 5CA0B6A0
 P 6600 1850
 F 0 "J2" H 6699 1826 50  0000 L CNN
 F 1 "DET_OUT_1" H 6699 1735 50  0000 L CNN
-F 2 "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" H 6600 1850 50  0001 C CNN
+F 2 "Connector_Coaxial:SMA_Amphenol_901-144_Vertical" H 6600 1850 50  0001 C CNN
 F 3 " ~" H 6600 1850 50  0001 C CNN
 	1    6600 1850
 	1    0    0    -1  
@@ -306,7 +306,7 @@ U 1 1 5CA1199E
 P 1200 3300
 F 0 "J3" H 1130 3538 50  0000 C CNN
 F 1 "RF_IN_2" H 1130 3447 50  0000 C CNN
-F 2 "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" H 1200 3300 50  0001 C CNN
+F 2 "Connector_Coaxial:SMA_Amphenol_901-144_Vertical" H 1200 3300 50  0001 C CNN
 F 3 " ~" H 1200 3300 50  0001 C CNN
 	1    1200 3300
 	-1   0    0    -1  
@@ -555,7 +555,7 @@ U 1 1 5CA11A26
 P 6600 3300
 F 0 "J4" H 6699 3276 50  0000 L CNN
 F 1 "DET_OUT_2" H 6699 3185 50  0000 L CNN
-F 2 "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" H 6600 3300 50  0001 C CNN
+F 2 "Connector_Coaxial:SMA_Amphenol_901-144_Vertical" H 6600 3300 50  0001 C CNN
 F 3 " ~" H 6600 3300 50  0001 C CNN
 	1    6600 3300
 	1    0    0    -1  
