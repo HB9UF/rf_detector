@@ -1399,7 +1399,7 @@
     (arrow2a (pts (xy 139 101) (xy 137.873496 100.413579)))
     (arrow2b (pts (xy 139 101) (xy 137.873496 101.586421)))
   )
-  (gr_line (start 127.9 80.8) (end 128.9 79.8) (layer F.SilkS) (width 0.2))
+  (gr_line (start 136 84.2) (end 137 83.2) (layer F.SilkS) (width 0.2))
   (gr_line (start 107.9 80.8) (end 108.9 79.8) (layer F.SilkS) (width 0.2))
   (gr_line (start 122.5 55.5) (end 122.5 57.5) (layer F.SilkS) (width 0.2))
   (dimension 16.5 (width 0.3) (layer Cmts.User)
