@@ -587,7 +587,7 @@ F 3 "~" H 3450 3300 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 Text Notes 1100 1000 0    197  ~ 39
-HB9UF Dual RF Detector, rev. 1.0
+HB9UF Dual RF Detector, rev. 1.1
 $Comp
 L Mechanical:MountingHole_Pad H1
 U 1 1 5CA13C66
