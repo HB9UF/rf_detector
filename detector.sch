@@ -634,4 +634,6 @@ F 3 "" H 1700 4900 50  0001 C CNN
 $EndComp
 Text Notes 2300 5000 0    50   ~ 0
 (c) Matt Weyland HB9FRV\nCC BY-SA 4.0\nBased on work by J.R. Klitzing W6PQL\nhttps://www.w6pql.com/Sampling_RF_Power.htm
+Text Notes 7550 2250 0    50   ~ 0
+Att       R1, R3, R4, R6      R2, R5\n-----------------------\n 3 dB           292            17.6\n 6 dB           150            37\n10 dB            96            71\n13 dB            79           106\n16 dB            69           154\n20 dB            61           248\n26 dB            55           498\n30 dB            53           790
 $EndSCHEMATC
